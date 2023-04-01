@@ -17,7 +17,10 @@ namespace Conflict_Web.Controllers
         {
             return View();
         }
-
+        public IActionResult registration()
+        {
+            return View();
+        }
 
 
         public IActionResult Privacy()

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\Git-merge-conflict\\Solution1\\Conflict_Web\\Conflict_Web.csproj": {}
+    "C:\\Users\\asadc\\OneDrive\\Desktop\\FInal\\Git-merge-conflict\\Solution1\\Conflict_Web\\Conflict_Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\Git-merge-conflict\\Solution1\\Conflict_Web\\Conflict_Web.csproj": {
+    "C:\\Users\\asadc\\OneDrive\\Desktop\\FInal\\Git-merge-conflict\\Solution1\\Conflict_Web\\Conflict_Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Git-merge-conflict\\Solution1\\Conflict_Web\\Conflict_Web.csproj",
+        "projectUniqueName": "C:\\Users\\asadc\\OneDrive\\Desktop\\FInal\\Git-merge-conflict\\Solution1\\Conflict_Web\\Conflict_Web.csproj",
         "projectName": "Conflict_Web",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\Git-merge-conflict\\Solution1\\Conflict_Web\\Conflict_Web.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\Git-merge-conflict\\Solution1\\Conflict_Web\\obj\\",
+        "projectPath": "C:\\Users\\asadc\\OneDrive\\Desktop\\FInal\\Git-merge-conflict\\Solution1\\Conflict_Web\\Conflict_Web.csproj",
+        "packagesPath": "C:\\Users\\asadc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asadc\\OneDrive\\Desktop\\FInal\\Git-merge-conflict\\Solution1\\Conflict_Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\asadc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -63,6 +63,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[7.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.5, )"
             }
           },
           "imports": [
